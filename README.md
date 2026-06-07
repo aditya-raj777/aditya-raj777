@@ -1,79 +1,103 @@
 # Hi, I'm Aditya Raj 👋
 
-## About Me
-🎓 B.Tech Student (JIIT'28)
+## 🚀 About Me
 
-💻 Interested in Software Development, Machine Learning, and Data Science
+🎓 B.Tech Student at Jaypee Institute of Information Technology (JIIT), Class of 2028
 
-🌱 Currently learning Data Structures & Algorithms, Python, Machine Learning, and Web Development
+💻 Passionate about Software Development, Machine Learning, and Data Science
+
+🌱 Currently learning Data Structures & Algorithms, Machine Learning, and Full-Stack Web Development
 
 🏭 Summer Intern at Indian Oil Corporation Limited (IOCL)
 
-🎯 Goal: Secure a Software Engineering / Data Science Internship and build impactful projects
+🎯 Aspiring Software Engineer focused on building practical projects, improving problem-solving skills, and gaining industry experience
 
 ---
 
-## Skills
+## 🛠️ Technical Skills
 
 ### Programming Languages
-- C++
-- Python
-- SQL
 
-### Tools & Technologies
-- Git & GitHub
-- Streamlit
-- Scikit-Learn
-- Pandas
-- NumPy
-- VS Code
+* C
+* C++
+* Python
+* SQL
 
-### Currently Learning
-- Data Structures & Algorithms
-- Machine Learning
-- System Design Basics
+### Core Computer Science
+
+* Data Structures & Algorithms
+* Object-Oriented Programming (OOP)
+* Database Management Systems (DBMS)
+
+### Libraries & Frameworks
+
+* Scikit-Learn
+* Pandas
+* NumPy
+* Streamlit
+
+### Tools
+
+* Git & GitHub
+* VS Code
+
+### Currently Exploring
+
+* Machine Learning
+* Full-Stack Web Development
+* System Design Fundamentals
 
 ---
 
-## Projects
+## 📂 Featured Projects
 
 ### 🏥 MediPredict
-Machine Learning based Disease Prediction System built using Python, Scikit-learn and Streamlit.
 
+Machine Learning-based Disease Prediction System developed using Python, Scikit-Learn, and Streamlit.
 
-**Key Features:**
-- Symptom-based disease prediction
-- Multiple ML models
-- Interactive Streamlit interface
-- Healthcare dataset analysis
+**Highlights**
 
+* Predicts possible diseases based on user-entered symptoms
+* Trained and evaluated multiple machine learning models
+* Interactive web interface built with Streamlit
+* Data preprocessing and model evaluation pipeline
 
 ### 🔍 Fake Review Detector
-A Natural Language Processing project that classifies reviews as genuine or fake using machine learning techniques.
 
+Natural Language Processing project for identifying fake and genuine reviews using machine learning techniques.
 
-**Key Features:**
-- Text preprocessing
-- Review classification
-- Machine learning-based prediction
-- NLP workflow implementation
+**Highlights**
 
----
-
-## Current Focus
-- Improving DSA problem-solving skills
-- Building Machine Learning projects
-- Open Source Contributions
-- Internship Preparation
+* Text preprocessing and feature extraction
+* Review classification using ML algorithms
+* End-to-end NLP workflow implementation
+* Performance evaluation and prediction system
 
 ---
 
-## Connect With Me
+## 📈 Current Focus
 
-LinkedIn: https://www.linkedin.com/in/aditya-raj777/
-
-Email: aditya6419raj@gmail.com
+* Solving Data Structures & Algorithms problems regularly
+* Building Machine Learning and AI projects
+* Exploring Open Source contributions
+* Preparing for Software Engineering and Data Science internships
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+## 📚 Certifications
+
+* Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+* NPTEL Certifications
+* Additional certifications in Python, Machine Learning, and related technologies
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: [www.linkedin.com/in/aditya-raj777](http://www.linkedin.com/in/aditya-raj777)
+
+📧 Email: [aditya6419raj@gmail.com](mailto:aditya6419raj@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
