@@ -4,7 +4,7 @@
 
 🎓 B.Tech Student at Jaypee Institute of Information Technology (JIIT), Class of 2028
 
-💻 Passionate about Software Development, Machine Learning, and Data Science
+💻 Interested in Software Development, Machine Learning, and Data Science
 
 🌱 Currently learning Data Structures & Algorithms, Machine Learning, and Full-Stack Web Development
 
@@ -34,6 +34,9 @@
 * Scikit-Learn
 * Pandas
 * NumPy
+* TensorFlow
+* Keras
+* OpenCV
 * Streamlit
 
 ### Tools
@@ -51,27 +54,45 @@
 
 ## 📂 Featured Projects
 
-### 🏥 MediPredict
+### 👕 TrendMatch AI
 
-Machine Learning-based Disease Prediction System developed using Python, Scikit-Learn, and Streamlit.
+AI-powered fashion recommendation system that finds visually similar clothing items using Deep Learning and Computer Vision.
+
+**Tech Stack:** Python, TensorFlow, Keras, ResNet50, Scikit-Learn, OpenCV, Streamlit
 
 **Highlights**
 
-* Predicts possible diseases based on user-entered symptoms
+* Processed a fashion catalogue containing 44,000+ products
+* Extracted image features using ResNet50
+* Implemented KNN-based similarity search
+* Built an interactive Streamlit web application
+* Added image upload, recommendation history, and visual search features
+
+---
+
+### 🏥 MediPredict
+
+Machine Learning-based disease prediction system developed using Python, Scikit-Learn, and Streamlit.
+
+**Highlights**
+
+* Predicts possible diseases from user-entered symptoms
 * Trained and evaluated multiple machine learning models
 * Interactive web interface built with Streamlit
-* Data preprocessing and model evaluation pipeline
+* Implemented data preprocessing and model evaluation pipeline
+
+---
 
 ### 🔍 Fake Review Detector
 
-Natural Language Processing project for identifying fake and genuine reviews using machine learning techniques.
+NLP-based project for identifying fake and genuine reviews using machine learning techniques.
 
 **Highlights**
 
-* Text preprocessing and feature extraction
-* Review classification using ML algorithms
-* End-to-end NLP workflow implementation
-* Performance evaluation and prediction system
+* Performed text preprocessing and feature extraction
+* Built review classification models
+* Implemented an end-to-end NLP workflow
+* Evaluated model performance and prediction accuracy
 
 ---
 
@@ -80,7 +101,6 @@ Natural Language Processing project for identifying fake and genuine reviews usi
 * Solving Data Structures & Algorithms problems regularly
 * Building Machine Learning and AI projects
 * Exploring Open Source contributions
-* Preparing for Software Engineering and Data Science internships
 
 ---
 
