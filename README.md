@@ -1,193 +1,143 @@
 # 👋 Hi, I'm Aditya Raj
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+%40+JIIT+Noida;Software+Developer;AI%2FML+Enthusiast;Django+Full-Stack+Developer;RAG+%26+LLM+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student+%40+JIIT+Noida;AI%2FML+Engineer+in+Progress;Generative+AI+%26+RAG+Developer;Machine+Learning+%7C+NLP+Enthusiast;Building+Practical+AI+Applications" />
 </p>
 
 <p align="center">
   <a href="https://github.com/aditya-raj777">
-    <img src="https://komarev.com/ghpvc/?username=aditya-raj777&label=Profile%20Views&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=aditya-raj777&label=Profile%20Views&style=flat&color=blue" />
   </a>
+  <img src="https://img.shields.io/badge/Class-2028-blue" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20GenAI-purple" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science & Engineering student at **Jaypee Institute of Information Technology (JIIT), Noida**
+🎓 B.Tech Computer Science & Engineering student at **Jaypee Institute of Information Technology (JIIT), Noida**.
 
 📅 **Class of 2028**
 
-💻 Interested in **Software Development, AI/ML and Data Science**
+🤖 Interested in **Artificial Intelligence, Machine Learning, Generative AI, NLP and Data Science**.
 
-🌐 Full-Stack development using **Django**
+🏭 Completed industrial training at **Indian Oil Corporation Limited (IOCL), Barauni Refinery**, working on an AI-powered RAG chatbot.
 
-🤖 Building **RAG-based AI applications and LLM solutions**
+🧠 Experienced in developing ML models, NLP pipelines, computer vision applications and LLM-powered systems.
 
-🏭 **Summer Intern at Indian Oil Corporation Limited (IOCL)**
+💻 Working with **Python, C++, SQL and backend development**.
 
-🧠 Currently improving my **C++ and Data Structures & Algorithms**
-
-🎯 Aspiring Software Engineer focused on building practical projects and solving real-world problems.
+🎯 Focused on building practical AI applications and solving real-world problems through machine learning and software engineering.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,js" />
 </p>
 
-### 🌐 Development
+### 🤖 Machine Learning & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv" />
 </p>
 
-### 🤖 AI / ML
+`Scikit-learn` • `XGBoost` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Keras` • `Optuna`
+
+### 🧠 Generative AI & NLP
+
+`RAG` • `LLMs` • `LangChain` • `ChromaDB` • `Ollama` • `Qwen2.5:7B` • `Hugging Face Transformers` • `DistilBERT` • `NLTK` • `TF-IDF` • `TextStat` • `Embeddings` • `Semantic Search`
+
+### 🌐 Backend & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,html,css,js" />
 </p>
 
-`Scikit-Learn` • `Pandas` • `NumPy` • `Keras`
+`FastAPI` • `Django` • `REST APIs` • `Streamlit` • `PyMuPDF`
 
-### 🧠 Generative AI
-
-`RAG` • `LangChain` • `ChromaDB` • `Ollama` • `Qwen` • `Embeddings` • `Semantic Search`
-
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 👕 TrendMatch AI
-
-**Deep Learning Based Fashion Recommendation System**
-
-An AI-powered visual fashion recommendation system that finds visually similar clothing products.
-
-- Processed **44,000+ fashion products**
-- Extracted image features using **ResNet50**
-- Implemented **KNN-based similarity search**
-- Built an interactive **Streamlit** application
-
-**Tech:** `Python` `TensorFlow` `Keras` `ResNet50` `OpenCV` `Scikit-Learn` `Streamlit`
-
-🔗 [View Project](https://github.com/aditya-raj777/trendmatch-ai)
+`Git` • `GitHub` • `VS Code` • `Linux` • `Pytest`
 
 ---
 
-### 🗣️ BharatVoice
 
-**AI Chatbot for Government Scheme Eligibility**
+## 🏭 Industrial Training Experience
 
-A chatbot designed to help users discover government schemes based on their eligibility.
+### Indian Oil Corporation Limited (IOCL)
+**Industrial Trainee – Information Systems Department**
 
-- Hindi / English interaction
-- Eligibility-based matching
-- Interactive web interface
+📍 Barauni Refinery | June 2026 – July 2026
 
-**Tech:** `JavaScript` `AI` `Chatbot` `Web Development`
+**Project: AI-Powered Knowledge Hub – RAG Chatbot**
 
-🔗 [View Project](https://github.com/aditya-raj777/BharatVoice)
-
----
-
-### 🔍 Fake Review Detector
-
-**Machine Learning & NLP Based Fake Review Detection**
-
-A machine learning project for identifying potentially fake online reviews.
-
-- Text preprocessing
-- Feature extraction
-- ML classification
-- Model evaluation
-
-**Tech:** `Python` `Scikit-Learn` `NLP` `Pandas`
-
-🔗 [View Project](https://github.com/aditya-raj777/Fake-Review-Detector)
-
----
-
-## 🏭 Internship Experience
-
-### Indian Oil Corporation Limited — Summer Intern
-
-Worked on an **AI-powered enterprise knowledge platform** using Retrieval-Augmented Generation (RAG).
+Worked on developing the backend of a Retrieval-Augmented Generation (RAG) chatbot for the IOCL Knowledge Hub, enabling natural-language search and question answering over internal PDF documents.
 
 **Key Contributions**
 
-- Developed document ingestion and retrieval components
-- Implemented text chunking and embeddings
-- Worked with **ChromaDB** for vector storage
-- Implemented semantic document retrieval
-- Integrated **Ollama & Qwen** for LLM-based responses
-- Developed backend components using **FastAPI**
-- Worked on retrieval relevance and response quality
+- Developed a document-grounded RAG pipeline for internal knowledge retrieval.
+- Implemented PDF text extraction using PyMuPDF and recursive text chunking with LangChain.
+- Generated document embeddings using Ollama's `nomic-embed-text`.
+- Implemented persistent vector storage using ChromaDB.
+- Integrated Qwen2.5:7B through Ollama for context-grounded answer generation.
+- Developed semantic retrieval with Top-K search, duplicate removal and relevance threshold filtering.
+- Implemented source attribution with document names and page numbers.
+- Developed modular backend services using FastAPI, including indexing, retrieval and vector repository components.
+- Implemented idempotent upserts, automated testing using Pytest and backend logging.
 
-**Tech:** `Python` `FastAPI` `RAG` `ChromaDB` `Ollama` `LangChain` `PyMuPDF`
+**Tech Stack:** `Python` `FastAPI` `RAG` `LangChain` `ChromaDB` `Ollama` `Qwen2.5:7B` `PyMuPDF` `Pytest`
 
 ---
 
-## 🌐 Full-Stack Development
+## 🎓 Certifications
 
-I build web applications using **Django** and related technologies.
+🏅 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
 
-`Django` • `Django REST Framework` • `REST APIs` • `ORM` • `Authentication` • `CRUD` • `SQL` • `HTML` • `CSS` • `JavaScript`
+📚 **Complete Data Science, Machine Learning, Deep Learning & NLP Bootcamp – Udemy (99 Hours)**
+
+📊 **JPMorgan Chase – Quantitative Research Job Simulation (Forage)**
+
+☁️ **Google Developer Groups – Gen AI Study Jams 2024**
 
 ---
 
 ## 🎯 Currently Focusing On
 
-💻 **Data Structures & Algorithms with C++**
-
-🌐 **Django & Backend Development**
-
-🤖 **Machine Learning & AI**
-
-🧠 **RAG & LLM Applications**
-
-🚀 **Building practical software projects**
-
----
-
-## 📜 Certifications
-
-🏅 **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**
-
-📚 **NPTEL Certifications**
+- 💻 Data Structures & Algorithms using C++.
+- 🤖 Machine Learning and Deep Learning.
+- 🧠 Generative AI, RAG and LLM applications.
+- 📊 Data Science and statistical analysis.
+- 🚀 Building practical AI-powered applications.
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/aditya-raj777">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:aditya6419raj@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/aditya-raj777">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/aditya-raj777">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aditya6419raj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/aditya-raj777">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
+  <br/>
+  <b>Building. Learning. Experimenting. Improving.</b>
 </p>
